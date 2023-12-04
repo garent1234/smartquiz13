@@ -1,0 +1,82 @@
+[
+  {
+      "question": "Sejarah adalah suatu ilmu tersendiri dan tergolong dalam ilmu-ilmu sosial. Pernyataan ini dikemukan oleh...",
+      "choice1": "Burry",
+      "choice2": "Spencer",
+      "choice3": "Gottschalk",
+      "choice4": "Notosusanto",
+      "answer": 3
+  },
+  {
+    "question":"Tahapan awal dari metode sejarah adalah...",
+    "choice1": "Penentuan topik",
+    "choice2": "Historiografi",
+    "choice3": "kritik",
+    "choice4": "heuristik",
+    "answer": 4
+  },
+  {
+    "question": " Kegiatan menafsirkan sebuah peristiwa sejarah disebut ... sejarah",
+    "choice1": "interpretasi",
+    "choice2": "penelitian",
+    "choice3": "verifikasi",
+    "choice4": "pencarian data",
+    "answer": 1
+  },
+  {
+    "question":"Hubungan sebab akibat antara peristiwa satu dengan peristiwa lain dalam sejarah disebut...",
+    "choice1": "Periodisasi",
+    "choice2": "Kausalitas",
+    "choice3": "kronologi",
+    "choice4": "Interpretasi",
+    "answer": 2
+  },
+  {
+    "question":"Berikut ini yang bukan contoh historiografi tradisional, adalah...",
+    "choice1": "Babad Tanah Jawi",
+    "choice2": "Carita Parahiangan",
+    "choice3": "Sejarah Sukapura",
+    "choice4": "Sejarah Nasional Indonesia",
+    "answer": 4
+  },
+  {
+    "question":"Sejarah sebagai perisitwa juga disebut sejarah...",
+    "choice1": "Objektif",
+    "choice2": "Ilham",
+    "choice3": "Rekreatif",
+    "choice4": "Instruktif",
+    "answer": 1
+  },
+  {
+    "question":"Sejarah menginformasikan pengetahuan disebut kegunaan sejarah sebagai...",
+    "choice1": "edukatif",
+    "choice2": "ilham",
+    "choice3": "rekreatif",
+    "choice4": "instruktif",
+    "answer": 1
+  },
+  {
+    "question":"Makna harfiah sejarah sebagai sesuatu yang telah terjadi, terdapat pada kata...",
+    "choice1": "Syajarotun",
+    "choice2": "Silsilah",
+    "choice3": "History",
+    "choice4": "Geschict",
+    "answer": 4
+  },
+  {
+    "question":"Sejarah berasal dari bahasa Arab, yaitu syajarotun yang berarti",
+    "choice1": "Batang",
+    "choice2": "Daun",
+    "choice3": "Pohon/kayu",
+    "choice4": "Ranting",
+    "answer": 3
+  },
+  {
+    "question":"Kata sejarah diambil dari kata syajarotun yang berasal dari bahasa...",
+    "choice1": "Arab",
+    "choice2": "Inggris",
+    "choice3": "Belanda",
+    "choice4": "Sansekerta",
+    "answer": 1
+  }
+]
